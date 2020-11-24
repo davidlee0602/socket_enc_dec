@@ -8,4 +8,4 @@ Socket-based Encryption and Decryption
 
 • Generates a shared key between client and server via a randomized key generator.
 
-Please compile by running the "compileall" file that mimics a makefile.
+Please compile by running the "compileall" makefile.
